@@ -10,6 +10,6 @@ train.py則包含使用的模型、training及inferencing test set的過程。
     !pip install category_encoders   
 2. 將training data, public testing data放在'./ITF_data'之下  
 3. 將private testing data放在'./ITF_data/private-data'之下    
-4. train.py, preprocess.py原先屬於同一個ipynb檔，請將train.py的程式碼接續在preprocess.py之下，以同一個py檔執行  
+4. train.py, preprocess.py原先屬於同一個ipynb檔，請將train.py的程式碼接續在preprocess.py之下，並在根目錄下以此同一個py檔執行  
 
   
